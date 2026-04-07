@@ -18,9 +18,9 @@
   src="https://raw.githubusercontent.com/Karanpatil1201/MarketPulse/927a56584ed3f6436250c0fbcf524282903cd8a5/Screenshot%202026-04-07%20134310.png" 
   alt="Market View / Additional Screen" 
   width="49%">
-  <img 
-  src="https://raw.githubusercontent.com/Karanpatil1201/MarketPulse/a6be65028ad9545df965d660ce6d7ad800a95b3e/Screenshot%202026-04-07%20131031.png" 
-  alt="Portfolio View" 
+<img 
+  src="https://raw.githubusercontent.com/Karanpatil1201/MarketPulse/cdce29510592b4752432f4f918db01545207bd99/Screenshot%202026-04-07%20134249.png" 
+  alt="Dashboard / Market Screen" 
   width="49%">
 </p>
 
