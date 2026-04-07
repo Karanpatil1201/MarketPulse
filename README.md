@@ -14,9 +14,9 @@
 > **[Features](#-features)** • **[Installation](#-installation)** • **[Architecture](#-architecture)** • **[Future Improvements](#-future-improvements)** 
 
 <p align="center">
-  <img 
-  src="https://raw.githubusercontent.com/Karanpatil1201/MarketPulse/72340c46c12048e0460a68d37660520a2a412c26/Screenshot%202026-04-07%20131016.png" 
-  alt="Live Market View" 
+ <img 
+  src="https://raw.githubusercontent.com/Karanpatil1201/MarketPulse/927a56584ed3f6436250c0fbcf524282903cd8a5/Screenshot%202026-04-07%20134310.png" 
+  alt="Market View / Additional Screen" 
   width="49%">
   <img 
   src="https://raw.githubusercontent.com/Karanpatil1201/MarketPulse/a6be65028ad9545df965d660ce6d7ad800a95b3e/Screenshot%202026-04-07%20131031.png" 
